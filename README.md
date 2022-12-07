@@ -1,3 +1,5 @@
+forcing workflow to run
+
 # setup-imagemagick
 
 This action downloads the latest ImageMagick binary and adds it to the PATH.
